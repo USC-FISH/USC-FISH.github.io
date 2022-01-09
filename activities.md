@@ -31,8 +31,12 @@ Description of activity
 
 [Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session3_TidePool_Youngerkids_Jake.pdf) | [Slides]()
 
-## For grades 5+
+### For grades 5+
 
 Description of activity
 
 [Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session3_TidePool_Olderkids_Trang.pdf) | [Slides]()
+
+## Mystery of the disappearing sea star
+
+[Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session4_Handout.pdf) | [Slides]()
