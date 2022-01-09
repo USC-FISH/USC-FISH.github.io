@@ -21,7 +21,7 @@ Description of activity
 
 Description of activity
 
-[Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session1_how_do_oceans_move_Su.pdf) | [Slides]()
+[Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session1_how_do_oceans_move_Su.pdf) | [Slides](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session2_%20slides.pdf)
 
 ## Tidepool biodiversity
 
