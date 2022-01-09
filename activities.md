@@ -13,7 +13,7 @@ Here's some activities...
 
 Description of activity
 
-[Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session1_how_do_oceans_move_Su.pdf) | [Slides]()
+[Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session1_how_do_oceans_move_Su.pdf) | [Slides](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session1_slides.pdf)
 
 ## Think like a marine biologist
 
