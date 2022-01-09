@@ -9,7 +9,7 @@ Here's some activities...
 
 ## How do oceans move?
 
-<img align="left" src="/images/tides.jpg" style="padding-right: 15px">
+<img align="left" src="/img/tides.jpg" style="padding-right: 15px">
 
 Description of activity
 
