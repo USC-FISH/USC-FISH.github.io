@@ -2,13 +2,9 @@
 layout: default
 title: About
 ---
-### Contact Me
+### Contact Us
 
-**Email:** jakeweis@usc.edu
+Please feel free to reach out to us with any questions!
 
-**Twitter:** @jlw_ecoevo
-
-**[Google Scholar](https://scholar.google.com/citations?user=IaAUSiQAAAAJ&hl=en)**
-
-I'm always on the lookout for opportunities to collaborate, so please feel free to reach out.
+**Email:** email@usc.edu
 
