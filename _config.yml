@@ -1,6 +1,6 @@
 title: USC-FISH
 subtitle: Fun Interactive Science Hour
-logo: /img/infection.gif
+logo: /img/tides.jpg
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal
