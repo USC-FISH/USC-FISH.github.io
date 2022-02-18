@@ -33,7 +33,7 @@ I am an environmental microbiologist who loves study the “unseen” microorgan
 
 ## JL Weissman
 
-<img align="left" src="/img/sickbacteria.png" width="150px" style="padding-right: 15px">
+[<img align="left" src="/img/sickbacteria.png" width="150px" style="padding-right: 15px">](https://kids.frontiersin.org/articles/10.3389/frym.2019.00102#:~:text=When%20the%20virus%20enters%20a,to%20protect%20themselves%20against%20infection.)
 
 **Twitter:** @jlw_ecoevo
 
