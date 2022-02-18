@@ -13,7 +13,7 @@ A little bit about who we are and what we do
 
 ## JL Weissman
 
-<img align="left" src="/images/sickbacteria.jpg" style="padding-right: 15px">
+<img align="left" src="/img/sickbacteria.jpg" style="padding-right: 15px">
 
 **Twitter:** @jlw_ecoevo
 
