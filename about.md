@@ -27,6 +27,8 @@ My name is Jesse (he/him) and I study microorganisms found in the surface ocean 
 
 ## Trang Nguyen
 
+**Twitter:** @trangsunsun
+
 <img align="left" src="/img/trang.jpg" width="150px" style="padding-right: 15px">
 
 I am an environmental microbiologist who loves study the “unseen” microorganisms and what they do in creative ways and at multiple biological organization levels from micro- to global-scale. The ultimate puzzle that I try to answer is how and to what extent microorganisms matter to global nutrient cyclings by looking at their genetic composition and biological activities. I am also a soil scientist and marine biologist by training. Besides working in the lab and in front of my computer, being in the field is definitely what I enjoy doing.
