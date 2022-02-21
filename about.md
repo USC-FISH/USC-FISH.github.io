@@ -23,7 +23,9 @@ My name is Holland (she/her). I am an evolutionary biologist and geneticist. In 
 
 <img align="left" src="/img/jesse.jpg" width="150px" style="padding-right: 15px">
 
-My name is Jesse (he/him) and I study microorganisms found in the surface ocean and at deep-sea hydrothermal vents. My research helps understand how microorganisms evolved, where they can be found in thr world's oceans, and understanding how they contribute to the ecosystems that support us as inhabitants of the "pale blue dot" know as Earth. I am passionate about discovering, growing, and sequencing DNA from these tiny creatyures and got involved in this project because I want others to be able to experience this same excitement first-hand!
+**[Website](https://jcmcnch.github.io)** 
+
+My name is Jesse (he/him) and I study microorganisms found in the surface ocean and at deep-sea hydrothermal vents. My research helps understand how microorganisms evolved, where they can be found in the world’s oceans, and understanding how they contribute to the ecosystems that support us as inhabitants of the “pale blue dot” known as Earth. I am passionate about discovering, growing, and sequencing DNA from these tiny creatures and got involved in this project because I want others to be able to experience this same excitement first-hand!
 
 ## Trang Nguyen
 
