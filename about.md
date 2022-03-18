@@ -17,7 +17,7 @@ A little bit about who we are and what we do
 
 My name is Holland (she/her). I am an evolutionary biologist and geneticist. In my research, I am most interested in understanding genetic diversity and adaptation of species that are the foundations of their ecosystems in order to conserve and restore these ecosystems in the face climate change. I became interested in biology, evolution, and genetics through contact with the natural world. My favorite ecosystems to explore when I was young were the sandy shores, rocky intertidal, and kelp forests of the U.S. west coast. I think everyone should have the opportunity that I had to explore and be curious in wild spaces, so I am also passionate about introducing everyone to the weird wonderful and beautiful biological diversity of these ecosystems.
 
-## Susana Gonçalves Leles
+## Suzana Gonçalves Leles
 
 **Twitter:** @su_leles
 
