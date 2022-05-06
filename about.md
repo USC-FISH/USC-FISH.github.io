@@ -19,6 +19,8 @@ My name is Holland (she/her). I am an evolutionary biologist and geneticist. In 
 
 ## Suzana Gonçalves Leles
 
+<img align="left" src="/img/su_perfil.jpg" width="150px" style="padding-right: 15px">
+
 **Twitter:** @su_leles
 
 I am Su (she/her), an ocean scientist interested on what I cannot see - the ecological interactions within the microbial world. I love to combine math and biology to learn more about microorganisms and how they interact with their environment. I am very curious about microbes that are both plants and animals. Have you ever imagined if we could also use light to grow? Some mighty microbes can use light and eat things, one of the reasons why I find them so cool.
