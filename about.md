@@ -43,4 +43,4 @@ I am an environmental microbiologist who loves study the “unseen” microorgan
 
 **[Website](https://jlw-ecoevo.github.io)** 
 
-**Bio:** I'm JL (they/them), a researcher at the University of Southern California trying to understand how bacteria grow and survive in the world around us. A big part of what I study is how bacteria fight viruses in the environment. Did you know that most viruses don't infect people? In fact, most viruses infect bacteria. I try to figure out how these bacteria protect themselves from viral infection in the wild.
+**Bio:** I'm JL (they/she), a researcher at the University of Southern California trying to understand how bacteria grow and survive in the world around us. A big part of what I study is how bacteria fight viruses in the environment. Did you know that most viruses don't infect people? In fact, most viruses infect bacteria. I try to figure out how these bacteria protect themselves from viral infection in the wild.
