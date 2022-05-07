@@ -42,5 +42,6 @@ Sea stars are disappearing from the Pacific Coast. To find out why we will use t
 [Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session4_LearnerHandout.pdf) | [Slides](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session4_Slides.pdf) |
 [Teacher Notes](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session4_LearningGuideHandout.pdf) |
 [Slide Notes](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session4_Slide_Notes.docx) |
-[Learning Objectives](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session4_LearningObjectives.pdf)
+[Learning Objectives](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session4_LearningObjectives.pdf) |
+[DNA Cutouts](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session-4_DNA-matching.pdf)
 
