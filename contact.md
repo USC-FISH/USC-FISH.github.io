@@ -6,5 +6,5 @@ title: About
 
 Please feel free to reach out to us with any questions!
 
-**Email:** email@usc.edu
+**Email:** fun.interactive.science.hour@gmail.com
 
