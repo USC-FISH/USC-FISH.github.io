@@ -21,7 +21,7 @@ On land, plants make both the oxygen we breathe and food for us and all other li
 [Teacher Notes](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session2_Slide_Notes.docx) |
 [Learning Objectives](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session2_LearningObjectives.docx)
 
-## Tidepool biodiversity
+## What's in a tidepool?
 
 As you walk along the sea shore you might notice that there are lots of little animals that like to live where the water meets the land. In this activity we think about how animals survive in this constantly changing environment where the daily movement of the tides can make staying in one place a challenge. Come learn about California’s tide pools and their many residents!
 
