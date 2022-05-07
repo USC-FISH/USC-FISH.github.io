@@ -3,13 +3,7 @@ layout: default
 title: About
 ---
 
-# About us
-
-## What we do
-
-A little bit about who we are and what we do
-
-## Who we are
+# Who we are
 
 ## Holland Elder
 
