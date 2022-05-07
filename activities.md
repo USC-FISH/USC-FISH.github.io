@@ -7,15 +7,11 @@ title: Activities
 
 ## How do oceans move?
 
-<img align="left" src="/img/tides.jpg" style="padding-right: 15px">
-
 The ocean covers nearly 70% of the Earth’s surface and this huge, connected, body of water is constantly moving. Water, plants, animals, pollutants and people are carried by ocean movements. But have you ever wondered how the ocean moves? Dive deep into this exploration with this activity to learn together how temperature, salt and winds can influence the ocean movement.
 
 [Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session1_how_do_oceans_move_Su.pdf) | [Slides](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session1_slides.pdf)
 
 ## Think like a marine biologist
-
-<img align="left" src="/img/protists.jpg" style="padding-right: 15px">
 
 On land, plants make both the oxygen we breathe and food for us and all other life. Did you know that in the oceans a microscopic, “invisible forest” supports animals like whales and penguins? In this activity, you will learn about these microscopic plants called “phytoplankton”, why they are important to our planet, and use a real microscope (that you get to keep!) to observe and draw them yourself!
 
