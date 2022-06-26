@@ -21,16 +21,16 @@ On land, plants make both the oxygen we breathe and food for us and all other li
 [Teacher Notes](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session2_Slide_Notes.docx) |
 [Learning Objectives](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session2_LearningObjectives.docx)
 
-## Tidepool biodiversity
+## What's in a tidepool?
 
 As you walk along the sea shore you might notice that there are lots of little animals that like to live where the water meets the land. In this activity we think about how animals survive in this constantly changing environment where the daily movement of the tides can make staying in one place a challenge. Come learn about California’s tide pools and their many residents!
 
-#### For grades 5 and under
+#### Move like a sea creature (For grades 5 and under)
 
 [Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session3_TidePool_Youngerkids.pdf) | [Slides](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session3_TidePool_Youngerkids_SLIDES.pptx) |
 [Teacher Notes + Learning Objectives](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session3_TidePool_Youngerkids_TeacherGuide.pdf)
 
-#### For grades 5+
+#### Measuring tidepool biodiversity (For grades 5+)
 
 [Handout](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session3_TidePool_Olderkids_HANDOUTS.pdf) | [Slides](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session3_TidePool_Olderkids_SLIDES.pptx) |
 [Teacher Notes + Learning Objectives](https://github.com/USC-FISH/USC-FISH.github.io/blob/master/activities/Session3_TidePool_Olderkids_TEACHERGUIDE.pdf)
